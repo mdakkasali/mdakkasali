@@ -90,7 +90,7 @@ Beyond the lab, I am passionate about exploring new places and cultures through 
 
 ## 📞 Contact Information
 
-**Office Address:** [To be provided]  
+**Office Address:** [ PBMR2 574 | 901 19th St. South | Birmingham, AL 35205]  
 **Phone:** [To be provided]  
 **Email:** [mali3@uab.edu]  
 
