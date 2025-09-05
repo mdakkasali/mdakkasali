@@ -90,8 +90,7 @@ Beyond the lab, I am passionate about exploring new places and cultures through 
 
 ## 📞 Contact Information
 
-**Office Address:** [ PBMR2 574 | 901 19th St. South | Birmingham, AL 35205]  
-**Phone:** [To be provided]  
+**Tyrrell Lab Address:**  PBMR2 574 | 901 19th St. South | Birmingham, AL 35205  
 **Email:** [mali3@uab.edu]  
 
 ## 🚀 Pinned Projects
