@@ -1,6 +1,6 @@
 # Md Akkas Ali, PhD Candidate
 
-[![ORCID](https://img.shields.io/badge/ORCID-0000--0002--3626--3393-green.svg)](https://orcid.org/0000-0002-3626-3393) [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Profile-blue)](https://scholar.google.com/citations?user=-qIZ0AgAAAAJ&hl=en&oi=ao) [![LinkedIn](https://img.shields.io/badge/LinkedIn-md--akkas--ali-blue)](https://www.linkedin.com/in/md-akkas-ali/) [![X (Twitter)](https://img.shields.io/badge/X-@Md__Ali__Akkas-1DA1F2)](https://x.com/Md_Ali_Akkas) [![Website](https://img.shields.io/badge/Website-Personal-orange)](https://sites.uab.edu/tyrrelllab/people/)
+[![ORCID](https://img.shields.io/badge/ORCID-0000--0002--3626--3393-green.svg)](https://orcid.org/0000-0002-3626-3393) [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Profile-blue)](https://scholar.google.com/citations?user=-qIZ0AgAAAAJ&hl=en&oi=ao) [![LinkedIn](https://img.shields.io/badge/LinkedIn-md--akkas--ali-blue)](https://www.linkedin.com/in/md-akkas-ali/) [![X (Twitter)](https://img.shields.io/badge/X-@Md__Ali__Akkas-1DA1F2)](https://x.com/Md_Ali_Akkas) [![Website](https://img.shields.io/badge/Website-Personal-orange)](https://sites.google.com/view/md-akkas-ali/home/)
 
 ## 👨‍🔬 About Me
 
