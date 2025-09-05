@@ -1,9 +1,7 @@
 # Md Akkas Ali, PhD Candidate
-
 [![ORCID](https://img.shields.io/badge/ORCID-0000--0002--3626--3393-green.svg)](https://orcid.org/0000-0002-3626-3393) [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Profile-blue)](https://scholar.google.com/citations?user=-qIZ0AgAAAAJ&hl=en&oi=ao) [![LinkedIn](https://img.shields.io/badge/LinkedIn-md--akkas--ali-blue)](https://www.linkedin.com/in/md-akkas-ali/) [![X (Twitter)](https://img.shields.io/badge/X-@Md__Ali__Akkas-1DA1F2)](https://x.com/Md_Ali_Akkas) [![Website](https://img.shields.io/badge/Website-Personal-orange)](https://sites.google.com/view/md-akkas-ali/home/)
 
 ## 👨‍🔬 About Me
-
 **PhD Candidate in Graduate Biomedical Sciences (GBS)**  
 **Department of Pathology – Molecular & Cellular**  
 The University of Alabama at Birmingham, AL, USA
@@ -18,7 +16,6 @@ Shahjalal University of Science and Technology (SUST), Bangladesh
 - **B.Sc. in Genetic Engineering and Biotechnology** - Shahjalal University of Science and Technology, Bangladesh (2011)
 
 ## 🔬 Research Interests
-
 Akkas Ali is a Ph.D. candidate in Biomedical Science at the University of Alabama at Birmingham and a lecturer in the Department of Genetic Engineering and Biotechnology at Shahjalal University of Science and Technology (SUST), Bangladesh. His research focuses on **T cell biology in aging**, particularly **T cell Age-Associated (TAA) cells**—a newly discovered subset of immune cells that appear only later in life and may drive brain inflammation linked to dementia. Through his work, Akkas aims to uncover how these cells change with age and explore new ways to protect brain health in older adults.
 
 **Key Research Areas:**
@@ -31,15 +28,12 @@ Akkas Ali is a Ph.D. candidate in Biomedical Science at the University of Alabam
 • **Computational Biology** - Data analysis and bioinformatics approaches
 
 ## 🧬 Brief Bio
-
 I am a PhD candidate focused on advancing our understanding of immune cell populations through cutting-edge spectral flow cytometry and single-cell analysis techniques. My research philosophy centers on leveraging computational approaches to decode complex biological systems and translate findings into meaningful clinical insights, particularly in the context of aging-related immune dysfunction and its connection to neurodegenerative diseases.
 
 ## 🌟 Personal Interests
-
 Beyond the lab, I am passionate about exploring new places and cultures through travel, enjoy cycling to stay active, keep up with the latest movies, and value quality time with family and loved ones. These activities help me maintain a balanced perspective and often inspire creative approaches to my research.
 
 ## 🔗 Professional Links
-
 - **Google Scholar:** [Md Akkas Ali](https://scholar.google.com/citations?user=-qIZ0AgAAAAJ&hl=en&oi=ao)
 - **ORCID:** [0000-0002-3626-3393](https://orcid.org/0000-0002-3626-3393)
 - **LinkedIn:** [md-akkas-ali](https://www.linkedin.com/in/md-akkas-ali/)
@@ -84,7 +78,6 @@ Beyond the lab, I am passionate about exploring new places and cultures through 
 - **Insights into the role of RUNX1 gene in female-related cancers** (2022, 2 citations)
 
 ## 📞 Contact Information
-
 **Office Address:** [To be provided]  
 **Phone:** [To be provided]  
 **Email:** [mali3@uab.edu]  
@@ -92,13 +85,42 @@ Beyond the lab, I am passionate about exploring new places and cultures through 
 ## 🚀 Pinned Projects
 
 ### 🔬 [Spectral Flow Cytometry Data Analysis](https://github.com/mdakkasali/Spectral_Flow_Cytometry_Data_Analysis)
-
 Comprehensive tools and workflows for analyzing spectral flow cytometry data, including preprocessing, dimensionality reduction, and visualization techniques for high-parameter immunological studies.
 
-## 📊 GitHub Stats
+## 🧪 Active Project Areas
 
+### Novel Age-Associated T Cells in Brain Aging and Dementia
+**Research Question:** How do Age-Associated cytotoxic CD8+ T cells (TAA cells) contribute to neuroinflammation and neurodegeneration in aging and vascular dementia?
+
+**Aim 1: T Cell Receptor Activation and TAA Cell Accumulation**  
+Investigating the role of chronic T cell receptor (TCR) activation in promoting TAA cell differentiation and accumulation during aging. Using OT-I TCR transgenic mice, we examine how TCR activation impacts TAA cell accumulation in the periphery and aging brain through longitudinal sampling and single-cell RNA sequencing.  
+**Key Finding:** Chronic TCR activation leads to significant TAA cell accumulation, with these cells comprising ~50% of all T cells in the aged brain compared to ~1% in young brains.
+
+**Aim 2: Granzyme K and Neuroinflammation**  
+Determining how granzyme K secreted from TAA cells promotes neuroinflammation by polarizing microglia toward pro-inflammatory states. Through adoptive transfer experiments using Gzmk+/+ and Gzmk-/- donor mice, we evaluate the impact of TAA-cell granzyme K on microglial polarization and neuroinflammation in healthy aging and vascular cognitive impairment.  
+**Expected Outcome:** Mice receiving Gzmk-/- TAA cells will exhibit more homeostatic microglia, reduced neuroinflammation, and preserved neuronal integrity.
+
+**Active Research Projects**
+
+**Project 2: Blood-Brain Barrier Breakdown in Aging/Dementia**  
+- Molecular biology (Western blot, qPCR, ELISA)  
+- Immunofluorescence imaging (confocal microscopy)  
+- Tissue-specific conditional knockout models  
+- Microsurgical models of disease  
+- Spatial-omics (Visium spatial transcriptomics)  
+- Bioinformatics
+
+**Project 3: T Cell Contribution to Brain Aging**  
+- Molecular biology (Western blot, qPCR, ELISA)  
+- Flow cytometry/sorting  
+- Immune cell adoptive transfer  
+- Microsurgical models of disease  
+- Single-cell RNA sequencing/TCR-seq  
+- Spatial-omics (Visium spatial transcriptomics)  
+- Bioinformatics
+
+## 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mdakkasali&show_icons=true&theme=default)
 
 ---
-
 *"Advancing immunological research through innovative computational approaches and single-cell technologies, with a focus on understanding aging-related immune dysfunction and its connection to neurodegenerative diseases."*
