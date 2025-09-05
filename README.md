@@ -8,7 +8,7 @@
 **Department of Pathology – Molecular & Cellular**  
 The University of Alabama at Birmingham, AL, USA
 
-**Lecturer**  
+**Assistant Professor**  
 **Department of Genetic Engineering and Biotechnology**  
 Shahjalal University of Science and Technology (SUST), Bangladesh
 
