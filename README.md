@@ -87,7 +87,7 @@ Beyond the lab, I am passionate about exploring new places and cultures through 
 
 **Office Address:** [To be provided]  
 **Phone:** [To be provided]  
-**Email:** [To be provided]  
+**Email:** [mali3@uab.edu]  
 
 ## 🚀 Pinned Projects
 
