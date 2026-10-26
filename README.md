@@ -105,14 +105,19 @@ Assessment of genetic diversity among moderately drought-tolerant landraces of r
 
 ## Teaching
 
-**Shahjalal University of Science and Technology, 2018–2022**
-- Molecular Biology (undergraduate)
-- Enzymology and Enzyme Biotechnology (undergraduate)
-- Molecular Biology of Disease (graduate)
-- Tissue Engineering and Regenerative Medicine (graduate)
+**Course instructor** · Department of Genetic Engineering and Biotechnology,
+Shahjalal University of Science and Technology, 2018–2022
 
-**University of Alabama at Birmingham, 2024–2025**
-- Guest lecturer in next-generation sequencing and genomics, Biotechnology PhD program
+| Course | Title | Level |
+|---|---|---|
+| GEB 213 | Molecular Biology | Undergraduate |
+| GEB 217 | Enzymology and Enzyme Biotechnology | Undergraduate |
+| GEB 545 | Molecular Biology of Disease | Graduate |
+| GEB 557 | Tissue Engineering and Regenerative Medicine | Graduate |
+
+**Guest lecturer** · Biotechnology PhD Program, University of Alabama at Birmingham, 2024–2025
+
+Lectures on next-generation sequencing and genomics.
 
 ## Education
 
